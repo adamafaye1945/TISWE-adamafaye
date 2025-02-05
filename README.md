@@ -1,16 +1,15 @@
-# Topics in Software Engineering
+# Name
+Adama Faye
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+# Proposal 
+Following the California Fire, I was thinking some type of map-based disaster relief app. This app solve the problem of fast response during disastreous event because time is very critical.
+it's going to be a community-driven platform designed to connect people affected by disasters with volunteers, and emergency services, live tracking of people to make sure they in safe areas. The app can give real-time alerts, emergency requests, and volunteer coordination, making sure that help reaches those in need quickly and efficiently.
 
-# Tools
-The tools that are installed with this devcontainer are:
+# Effect
+Many can benefit from this App.
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
+Disaster Victims : They can get help, find shelter, receive real-time alerts
 
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+Volunteers and First Responders: can locate people in need, Create volunteer Group, distribute aid to people that requested, join relief efforts
+
+Government Agencies: They can easily Coordinate relief, send alerts, manage disaster response
